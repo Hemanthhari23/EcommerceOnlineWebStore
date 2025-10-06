@@ -54,3 +54,10 @@
 .d-block{
     aspect-ratio: 2/1.2;
 }
+.input-group .input-group-text{
+    background-color: #f06795;
+    color: white;
+    border: none;
+    font-weight: bold;
+    border-radius: 50px 50px;
+}
