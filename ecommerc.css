@@ -61,3 +61,21 @@
     font-weight: bold;
     border-radius: 50px 50px;
 }
+#footer{
+    background-color: #f06795;
+}
+.fcontent p{
+    color: rgb(76, 64, 64);
+}
+.fcontent h4{
+    font-weight: bold;
+    color: white;
+}
+.icons .fa-brands{
+    font-size: 25px;
+    color: white;
+    margin-right: 1%;
+}
+.icons .fa-brands:hover{
+    color: skyblue;
+}
